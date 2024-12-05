@@ -43,7 +43,8 @@ class LoanAdmin(admin.ModelAdmin):
 ```
 
 # OUTPUT
-![Screenshot 2024-12-04 141047](https://github.com/user-attachments/assets/a2e3f913-634a-4a53-8446-501f7599b5da)
+![Screenshot 2024-12-05 132421](https://github.com/user-attachments/assets/a26e5f43-e3b5-496b-aa78-83584e086680)
+
 
 
 # RESULT
